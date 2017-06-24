@@ -11,8 +11,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="448.18228mm"
-   height="282.36615mm"
-   viewBox="0 0 1588.0475 1000.51"
+   height="266.23917mm"
+   viewBox="0 0 1588.0475 943.36714"
    id="svg4194"
    version="1.1"
    inkscape:version="0.91 r13725"
@@ -27,8 +27,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35"
-     inkscape:cx="642.54984"
-     inkscape:cy="523.37422"
+     inkscape:cx="643.97841"
+     inkscape:cy="571.94565"
      inkscape:document-units="px"
      inkscape:current-layer="layer5"
      showgrid="false"
@@ -57,16 +57,16 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="back"
-     transform="translate(-62.865757,75.403275)"
+     transform="translate(-62.865757,18.260418)"
      style="display:inline">
     <rect
        style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:3.50620794;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4229"
        width="1588.0475"
-       height="1000.51"
+       height="943.36713"
        x="62.865757"
-       y="-75.403275"
-       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/die-cmos.png"
+       y="-18.260418"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-02-interior-microchips/die-cmos.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -75,7 +75,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      style="display:inline"
-     transform="translate(-62.865757,75.403275)">
+     transform="translate(-62.865757,18.260418)">
     <image
        y="231.56703"
        x="96.071373"
@@ -84,7 +84,7 @@
        preserveAspectRatio="none"
        height="529.82141"
        width="492.85715"
-       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/die-cmos.png"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-02-interior-microchips/die-cmos.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
   </g>
@@ -93,7 +93,7 @@
      id="layer2"
      inkscape:label="Layer 2"
      style="display:inline"
-     transform="translate(-62.865757,75.403275)">
+     transform="translate(-62.865757,18.260418)">
     <path
        style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:4;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path4210"
@@ -106,7 +106,7 @@
        sodipodi:end="0.024128479"
        sodipodi:open="true"
        d="m 429.77156,364.71509 a 26.263966,26.263966 0 0 1 -27.01576,25.4451 26.263966,26.263966 0 0 1 -25.48986,-26.97354 26.263966,26.263966 0 0 1 26.93125,-25.53454 26.263966,26.263966 0 0 1 25.57915,26.88889"
-       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/die-cmos.png"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-02-interior-microchips/die-cmos.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <image
@@ -118,7 +118,7 @@
        preserveAspectRatio="none"
        height="497.79437"
        width="766.96692"
-       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/die-cmos.png"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-02-interior-microchips/die-cmos.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -133,7 +133,7 @@
        sodipodi:end="0.024128479"
        sodipodi:open="true"
        d="M 1607.9607,474.56424 A 427.29453,427.29453 0 0 1 1168.435,888.53654 427.29453,427.29453 0 0 1 753.73466,449.69775 427.29453,427.29453 0 0 1 1191.8854,34.270471 427.29453,427.29453 0 0 1 1608.0384,471.73191"
-       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/die-cmos.png"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-02-interior-microchips/die-cmos.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -141,7 +141,7 @@
        d="M 403.21417,335.71767 974.64274,87.14624"
        id="path4225"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/die-cmos.png"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-02-interior-microchips/die-cmos.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <path
@@ -149,36 +149,38 @@
        d="M 404.64274,389.28909 871.07131,755.71767"
        id="path4227"
        inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/obijuan/develop/myslides/2017-05-05-Electronica-dig-divertica-FPGAs-libres-PEAC-IES-Juan-cierva/images/die-cmos.png"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-02-interior-microchips/die-cmos.png"
        inkscape:export-xdpi="90"
        inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:66.59606171px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="238.58846"
-       y="163.36601"
+       style="font-style:normal;font-weight:normal;font-size:51.82904816px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="268.51544"
+       y="192.14655"
        id="text4142"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-02-interior-microchips/die-cmos.png"><tspan
          sodipodi:role="line"
          id="tspan4144"
-         x="238.58846"
-         y="163.36601"
+         x="268.51544"
+         y="192.14655"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Dado</tspan></text>
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:66.59606171px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="867.21094"
-       y="-4.3518128"
+       style="font-style:normal;font-weight:normal;font-size:51.82904816px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="950.14014"
+       y="215.85728"
        id="text4142-3"
        sodipodi:linespacing="125%"
        inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90"><tspan
+       inkscape:export-ydpi="90"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-02-interior-microchips/die-cmos.png"><tspan
          sodipodi:role="line"
          id="tspan4144-6"
-         x="867.21094"
-         y="-4.3518128"
+         x="950.14014"
+         y="215.85728"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Transistor CMOS</tspan></text>
   </g>
 </svg>
