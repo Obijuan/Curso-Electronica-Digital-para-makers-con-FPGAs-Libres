@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="199.84348mm"
+   height="142.82597mm"
+   viewBox="0 0 708.10679 506.07627"
+   id="svg4194"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Transistores.svg">
+  <defs
+     id="defs4196">
+    <inkscape:perspective
+       id="perspective2537"
+       inkscape:persp3d-origin="74.999996 : 50 : 1"
+       inkscape:vp_z="149.99999 : 75.000001 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 75.000001 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="479.58129"
+     inkscape:cy="250.58011"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer5"
+     showgrid="false"
+     inkscape:window-width="1855"
+     inkscape:window-height="1056"
+     inkscape:window-x="65"
+     inkscape:window-y="1048"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata4199">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="back"
+     transform="translate(-265.26242,-273.40538)"
+     style="display:inline">
+    <rect
+       style="opacity:1;fill:#f2f2f2;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="rect4317"
+       width="707.10681"
+       height="505.07629"
+       x="265.76242"
+       y="273.90536"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Layer 1"
+     style="display:inline"
+     transform="translate(-265.26242,-273.40538)">
+    <path
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       id="path1325"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 438.18867,625.46774 0,-86.93175"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 491.68513,715.74301 0,-93.6188 -40.12234,0 0,-80.24469 40.12234,0 0,-93.61879"
+       id="path4511"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       x="501.14105"
+       y="702.3689"
+       style="font-style:normal;font-weight:normal;font-size:40.12234116px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3963"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="501.14105"
+         y="702.3689"
+         id="tspan3965">S</tspan></text>
+    <text
+       x="502.43405"
+       y="491.33478"
+       style="font-style:normal;font-weight:normal;font-size:40.12234116px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3967"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="502.43405"
+         y="491.33478"
+         id="tspan3969">D</tspan></text>
+    <text
+       x="335.74741"
+       y="568.138"
+       style="font-style:normal;font-weight:normal;font-size:40.12234116px;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3971"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="335.74741"
+         y="568.138"
+         id="tspan3973">G</tspan></text>
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-opacity:0.75;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 324.50871,582.00186 117.02349,0"
+       id="path1891"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 451.56279,528.50541 0,106.99291"
+       id="path1995"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:connector-curvature="0"
+       d="m 490.57062,618.78068 -20.06117,-20.06117 0,40.12234 20.06117,-20.06117 z"
+       style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:3.00000024px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="path1307"
+       inkscape:transform-center-x="-1.8485915"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32.38455582px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="331.51776"
+       y="376.69696"
+       id="text4161"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4163"
+         x="331.51776"
+         y="376.69696"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Transistor </tspan><tspan
+         sodipodi:role="line"
+         x="331.51776"
+         y="417.17764"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4258">MOSFET</tspan></text>
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 753.94889,533.36517 0,97.13381"
+       id="path4219"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:none;fill-opacity:1;stroke:#000000;stroke-width:3;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 756.82718,562.93088 45.23201,-44.54023 0,-69.73008"
+       id="path4221"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 757.44397,605.6325 16.03682,15.11917 -7.19597,7.15094 29.40083,14.09752 4.83889,3.99148 0,66.97414 2.62507,-0.1866 0.3053,-68.32714 -6.12454,-6.74238 -14.39194,-26.56078 -5.34561,5.31216 -18.91528,-16.95796 z"
+       id="path4223"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccc"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       style="opacity:1;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:3.00000024;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       d="m 668.5013,582.13638 79.92852,0"
+       id="path4225"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <text
+       x="676.07709"
+       y="562.26178"
+       style="font-style:normal;font-weight:normal;font-size:40.12234116px;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3971-3"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="676.07709"
+         y="562.26178"
+         id="tspan3973-6">B</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:32.38455582px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="681.51776"
+       y="376.69696"
+       id="text4161-7"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4163-5"
+         x="681.51776"
+         y="376.69696"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'">Transistor </tspan><tspan
+         sodipodi:role="line"
+         x="681.51776"
+         y="417.17764"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold'"
+         id="tspan4258-3">Bipolar (NPN)</tspan></text>
+    <text
+       x="814.30188"
+       y="706.54749"
+       style="font-style:normal;font-weight:normal;font-size:40.12234116px;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3971-3-5"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="814.30188"
+         y="706.54749"
+         id="tspan3973-6-6">E</tspan></text>
+    <text
+       x="813.29175"
+       y="480.83319"
+       style="font-style:normal;font-weight:normal;font-size:40.12234116px;font-family:'Bitstream Vera Sans';display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       id="text3971-3-5-2"
+       xml:space="preserve"
+       inkscape:export-filename="/home/obijuan/develop/Curso-Electronica-Digital-para-makers-con-FPGAs-Libres/doc/Capitulo-01-tecnologia-digital/Seccion-04-transistor/Transistores.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         x="813.29175"
+         y="480.83319"
+         id="tspan3973-6-6-9">C</tspan></text>
+  </g>
+</svg>
