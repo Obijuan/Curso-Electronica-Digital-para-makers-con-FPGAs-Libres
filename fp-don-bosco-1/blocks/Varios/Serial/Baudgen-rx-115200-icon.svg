@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="116.56255"
+   height="107.83212"
+   viewBox="0 0 109.27784 101.09301"
+   id="svg6430"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="Baudgen-tx-115200-icon.svg">
+  <metadata
+     id="metadata6448">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs6446">
+    <marker
+       inkscape:stockid="TriangleOutM"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="TriangleOutM"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path4301"
+         d="m 5.77,0 -8.65,5 0,-10 8.65,5 z"
+         style="fill:#ff0000;fill-opacity:1;fill-rule:evenodd;stroke:#ff0000;stroke-width:1pt;stroke-opacity:1"
+         transform="scale(0.4,0.4)"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1215"
+     inkscape:window-height="1000"
+     id="namedview6444"
+     showgrid="false"
+     inkscape:zoom="0.99949423"
+     inkscape:cx="64.397878"
+     inkscape:cy="19.56682"
+     inkscape:window-x="88"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6430"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <text
+     y="100.76614"
+     x="2.3477173"
+     style="font-weight:400;font-size:40.39699936px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#ff0000"
+     font-weight="400"
+     font-size="40.397"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text6432"
+     sodipodi:linespacing="125%">
+    <tspan
+       style="font-weight:700;font-size:23.08399963px;-inkscape-font-specification:'sans-serif Bold'"
+       y="100.76614"
+       x="2.3477173"
+       font-weight="700"
+       font-size="23.084"
+       id="tspan6434">115200</tspan>
+  </text>
+  <path
+     d="m 40.850064,73.767823 c -1.314,-2.254 -3.351,-4.461 -7.211,-7.812 -2.091,-1.815 -3.363,-2.823 -10.605,-8.401 -5.676,-4.373 -8.508,-6.799 -11.79,-10.101 -3.2799998,-3.302 -5.2079998,-5.932 -6.8619998,-9.361 -1.056,-2.19 -1.782,-4.3 -2.234,-6.492 -0.573,-2.785 -0.651,-3.728 -0.648,-7.829 0.004,-5.381 0.182,-6.276 1.954,-9.866 1.317,-2.666 2.317,-4.0700003 4.4,-6.1790003 2.023,-2.047 3.3359998,-2.977 6.1759998,-4.377 3.155,-1.556 5.437,-1.964 10.138,-1.813 3.653,0.118 4.99,0.48 7.886,2.142 4.558,2.615 8.095,6.8130003 9.074,10.7700003 0.16,0.647 0.325,1.177 0.367,1.177 0.042,0 0.411,-0.757 0.82,-1.682 1.392,-3.145 2.685,-5.0640003 4.739,-7.0380003 6.289,-6.04599995 16.204,-7.13899995 24.221,-2.672 3.274,1.824 5.938,4.48 8.002,7.9780003 1.625,2.753 2.456,6.41 2.598,11.433 0.205,7.277 -1.13,12.32 -4.683,17.694 -1.41,2.133 -2.453,3.425 -4.409,5.461 -3.156,3.287 -6.002,5.703 -12.721,10.798 -4.24,3.215 -6.753,5.282 -10.39,8.55 -2.915,2.618 -7.431,7.176 -7.866,7.938 -0.19,0.333 -0.362,0.605 -0.382,0.605 -0.02,0 -0.278,-0.415 -0.574,-0.923 z"
+     id="path6436"
+     inkscape:connector-curvature="0"
+     style="fill:#ff0000;stroke:#000000;stroke-width:3" />
+  <path
+     style="opacity:1;fill:none;fill-opacity:1;stroke:#0000ff;stroke-width:2.81251168;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 26.952078,49.238603 10.205016,0 0,-26.33343 7.951498,0 0,26.37402 8.692837,0"
+     id="path4148-3"
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccc" />
+  <text
+     y="72.740082"
+     x="61.743412"
+     style="font-weight:400;font-size:29.89880753px;line-height:125%;font-family:sans-serif;letter-spacing:0;word-spacing:0;fill:#ff0000"
+     font-weight="400"
+     font-size="40.397"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text6432-3"
+     sodipodi:linespacing="125%">
+    <tspan
+       style="font-weight:700;font-size:17.08503342px;-inkscape-font-specification:'sans-serif Bold'"
+       y="72.740082"
+       x="61.743412"
+       font-weight="700"
+       font-size="23.084"
+       id="tspan6434-6">Baud</tspan>
+  </text>
+</svg>
